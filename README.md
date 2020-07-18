@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Preview App in CodeSandbox
+Check out the app in codesandbox with the following link [Node Api Challenge React App](https://codesandbox.io/s/github/calvarezberrios/node-api-challenge-stretch-react-app)
+
 ## Available Scripts
 
 In the project directory, you can run:
